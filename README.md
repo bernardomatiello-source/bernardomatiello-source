@@ -36,4 +36,4 @@ Every day I look for new challenges to learn and improve my skills.
 
 ---
 
-✨ *Always learning, adapting and growing as a developer.*  
+🤓 *Always learning, adapting and growing as a developer.*  
