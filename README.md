@@ -8,17 +8,17 @@ Every day I look for new challenges to learn and improve my skills.
 ## 🚀 About me
 - 📍 From Santa Catarina, Brazil  
 - 👨‍💻 IT intern at **Sysmo Sistemas**: technical support, systems maintenance and network administration  
-- 🎯 Currently focusing on **Back-end Development**  
-- ☕ Studying **Java, Object-Oriented Programming (OOP), data structures and clean code**  
+- 🎯 Currently focusing on **Full-Stack Development**  
+- ☕ Studying **Java (OOP), Python, Typescript and QA-Cypress**  
 - 🔧 Learning **Git & GitHub** for version control  
 - 🌍 English student (intermediate → advanced)  
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Java
-- **Tools**: Git, GitHub, Eclipse IDE, VS Code  
-- **Databases**: SQL (basics)  
+- **Languages**: Java, Typescript, Python
+- **Tools**: Git, GitHub, Eclipse IDE, VS Code, Antigravity  
+- **Databases**: MySQL (basics)  
 
 ---
 
