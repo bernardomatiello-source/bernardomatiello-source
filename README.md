@@ -5,7 +5,7 @@ I am currently an IT Intern at **Sysmo Sistemas**, where I focus on test automat
 
 ---
 
-### 🛠 Technical Stack & Daily Work
+###  Technical Stack & Daily Work
 * **Testing:** Quality Assurance with **Cypress** (focusing on automated E2E tests).
 * **Languages:** **TypeScript** (applied to tests), Python (Core & Logic), Java (OOP Foundations).
 * **Tools:** Git, GitHub, VS Code, Eclipse IDE.
@@ -14,17 +14,9 @@ I am currently an IT Intern at **Sysmo Sistemas**, where I focus on test automat
 
 ---
 
-### 📂 Professional Experience
+###  Professional Experience
 * **Sysmo Sistemas (IT Intern):** * Developing and maintaining automated tests with **Cypress + TypeScript**.
     * Technical support, systems maintenance, and network administration.
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardomatiello-source&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardomatiello-source&layout=compact&langs_count=7&theme=transparent"/>
-</p>
 
 ---
 
