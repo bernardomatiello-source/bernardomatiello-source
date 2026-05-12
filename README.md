@@ -1,7 +1,7 @@
 # Bernardo Matiello
 **QA Automation & Software Development Student**
 
-I am currently an IT Intern at **Sysmo Sistemas**, where I focus on test automation using **Cypress and TypeScript**. I am passionate about code quality and building a strong technical foundation in software engineering.
+I am currently an IT Intern at **Sysmo Sistemas**, where I focus on test automation using **Cypress and TypeScript**.
 
 ---
 
