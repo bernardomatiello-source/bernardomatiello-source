@@ -9,7 +9,7 @@ I am currently an IT Intern at **Sysmo Sistemas**, where I focus on test automat
 * **Testing:** Quality Assurance with **Cypress** (focusing on automated E2E tests).
 * **Languages:** **TypeScript** (applied to tests), Python (Core & Logic), Java (OOP Foundations).
 * **Tools:** Git, GitHub, VS Code, Eclipse IDE.
-* **Databases:** MySQL.
+* **Databases:** MySQL and PostgreSQL.
 * **Current Focus:** Deepening my knowledge in Python and TypeScript architecture.
 
 ---
